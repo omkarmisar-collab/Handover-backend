@@ -1,0 +1,11 @@
+# Visual Studio and .NET 
+[Bb]in/ 
+[Oo]bj/ 
+.vs/ 
+*.user 
+ 
+# Angular and Node 
+node_modules/ 
+.angular/ 
+dist/ 
+.vscode/ 
