@@ -8,8 +8,7 @@ namespace SourcingAPI.Models
         public int RoleId { get; set; }
 
         [Required]
-        public string RoleName { get; set; }
-
-        public string Permission { get; set; }
+        public string RoleName { get; set; } = string.Empty;
+        public string Permission { get; set; } = string.Empty;
     }
 }

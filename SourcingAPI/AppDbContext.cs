@@ -8,5 +8,7 @@ namespace SourcingAPI.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<SourcingItem> SourcingItems { get; set; }
+
+        public DbSet<MasterRole> MasterRoles { get; set; }
     }
 }
