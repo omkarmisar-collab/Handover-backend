@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|d:\\omkar\\employeeformproject\\handover-backend\\sourcingapi\\models\\masterrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|solutionrelative:sourcingapi\\models\\masterrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|d:\\omkar\\employeeformproject\\handover-backend\\sourcingapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|solutionrelative:sourcingapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|d:\\omkar\\employeeformproject\\handover-backend\\sourcingapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|solutionrelative:sourcingapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|d:\\omkar\\employeeformproject\\handover-backend\\sourcingapi\\migrations\\20260207081115_addmissingexcelcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|solutionrelative:sourcingapi\\migrations\\20260207081115_addmissingexcelcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|d:\\omkar\\employeeformproject\\handover-backend\\sourcingapi\\models\\sourcingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|solutionrelative:sourcingapi\\models\\sourcingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|d:\\omkar\\employeeformproject\\handover-backend\\sourcingapi\\controllers\\sourcingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|solutionrelative:sourcingapi\\controllers\\sourcingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|d:\\omkar\\employeeformproject\\handover-backend\\sourcingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|solutionrelative:sourcingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|d:\\omkar\\employeeformproject\\handover-backend\\sourcingapi\\migrations\\20260207080144_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|solutionrelative:sourcingapi\\migrations\\20260207080144_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|d:\\omkar\\employeeformproject\\handover-backend\\sourcingapi\\migrations\\20260209070721_fixtablenaming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|solutionrelative:sourcingapi\\migrations\\20260209070721_fixtablenaming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|d:\\omkar\\employeeformproject\\handover-backend\\sourcingapi\\migrations\\20260209063134_addmasterroletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914B7B60-9F82-7B8D-4AE3-20DF9DFFB18D}|SourcingAPI\\SourcingAPI.csproj|solutionrelative:sourcingapi\\migrations\\20260209063134_addmasterroletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 252,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260209070721_FixTableNaming.cs",
+              "DocumentMoniker": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Migrations\\20260209070721_FixTableNaming.cs",
+              "RelativeDocumentMoniker": "SourcingAPI\\Migrations\\20260209070721_FixTableNaming.cs",
+              "ToolTip": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Migrations\\20260209070721_FixTableNaming.cs",
+              "RelativeToolTip": "SourcingAPI\\Migrations\\20260209070721_FixTableNaming.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:07:21.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SourcingAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SourcingAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:32:04.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MasterRole.cs",
+              "DocumentMoniker": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Models\\MasterRole.cs",
+              "RelativeDocumentMoniker": "SourcingAPI\\Models\\MasterRole.cs",
+              "ToolTip": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Models\\MasterRole.cs",
+              "RelativeToolTip": "SourcingAPI\\Models\\MasterRole.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:29:55.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260207081115_AddMissingExcelColumns.cs",
+              "DocumentMoniker": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Migrations\\20260207081115_AddMissingExcelColumns.cs",
+              "RelativeDocumentMoniker": "SourcingAPI\\Migrations\\20260207081115_AddMissingExcelColumns.cs",
+              "ToolTip": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Migrations\\20260207081115_AddMissingExcelColumns.cs",
+              "RelativeToolTip": "SourcingAPI\\Migrations\\20260207081115_AddMissingExcelColumns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T08:11:15.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260207080144_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Migrations\\20260207080144_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SourcingAPI\\Migrations\\20260207080144_InitialCreate.cs",
+              "ToolTip": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Migrations\\20260207080144_InitialCreate.cs",
+              "RelativeToolTip": "SourcingAPI\\Migrations\\20260207080144_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T08:01:44.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SourcingController.cs",
+              "DocumentMoniker": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Controllers\\SourcingController.cs",
+              "RelativeDocumentMoniker": "SourcingAPI\\Controllers\\SourcingController.cs",
+              "ToolTip": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Controllers\\SourcingController.cs",
+              "RelativeToolTip": "SourcingAPI\\Controllers\\SourcingController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T07:41:31.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SourcingAPI\\AppDbContext.cs",
+              "ToolTip": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\AppDbContext.cs",
+              "RelativeToolTip": "SourcingAPI\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:21:50.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260209063134_AddMasterRoleTable.cs",
+              "DocumentMoniker": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Migrations\\20260209063134_AddMasterRoleTable.cs",
+              "RelativeDocumentMoniker": "SourcingAPI\\Migrations\\20260209063134_AddMasterRoleTable.cs",
+              "ToolTip": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Migrations\\20260209063134_AddMasterRoleTable.cs",
+              "RelativeToolTip": "SourcingAPI\\Migrations\\20260209063134_AddMasterRoleTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:31:34.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SourcingItem.cs",
+              "DocumentMoniker": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Models\\SourcingItem.cs",
+              "RelativeDocumentMoniker": "SourcingAPI\\Models\\SourcingItem.cs",
+              "ToolTip": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Models\\SourcingItem.cs",
+              "RelativeToolTip": "SourcingAPI\\Models\\SourcingItem.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA4wBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:19:47.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SourcingAPI\\Program.cs",
+              "ToolTip": "D:\\Omkar\\EmployeeFormProject\\Handover-backend\\SourcingAPI\\Program.cs",
+              "RelativeToolTip": "SourcingAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:16:49.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
