@@ -31,5 +31,48 @@ namespace SourcingAPI.Controllers
             await _context.SaveChangesAsync();
             return Ok(item);
         }
+
+        // PUT: api/Sourcing/5
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateItem(int id, SourcingItem item)
+        {
+            // 1️⃣ Check id mismatch
+            if (id != item.Id)
+            {
+                return BadRequest("ID mismatch");
+            }
+
+            // 2️⃣ Find existing record
+            var existingItem = await _context.SourcingItems.FindAsync(id);
+
+            if (existingItem == null)
+            {
+                return NotFound("Item not found");
+            }
+
+            // 3️⃣ Update fields
+            existingItem.SapCode = item.SapCode;
+            existingItem.Description = item.Description;
+            existingItem.DrawingRevision = item.DrawingRevision;
+            existingItem.Commodity = item.Commodity;
+            existingItem.Supplier = item.Supplier;
+            existingItem.BuyerCST = item.BuyerCST;
+            existingItem.ApplicationProduct = item.ApplicationProduct;
+
+            existingItem.CustomerCode = item.CustomerCode;
+            existingItem.CostingSheet = item.CostingSheet;
+            existingItem.ToolCostStatus = item.ToolCostStatus;
+            existingItem.DualSource = item.DualSource;
+            existingItem.SaReleasedNumber = item.SaReleasedNumber;
+            existingItem.Remarks = item.Remarks;
+
+            existingItem.IsirDocuments = item.IsirDocuments;
+            existingItem.PpapDocument = item.PpapDocument;
+
+            // 4️⃣ Save changes
+            await _context.SaveChangesAsync();
+
+            return Ok(existingItem);
+        }
     }
 }
