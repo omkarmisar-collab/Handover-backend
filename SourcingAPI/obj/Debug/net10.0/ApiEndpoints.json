@@ -46,6 +46,27 @@
     ]
   },
   {
+    "ContainingType": "SourcingAPI.Controllers.SourcingController",
+    "Method": "UpdateItem",
+    "RelativePath": "api/Sourcing/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "item",
+        "Type": "SourcingAPI.Models.SourcingItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EmployeeAPI.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

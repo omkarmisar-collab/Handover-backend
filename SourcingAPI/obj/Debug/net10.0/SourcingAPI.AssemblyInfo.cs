@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SourcingAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e015dde3fc198b7a1f9b48a810745464e0cc2be")]
 [assembly: System.Reflection.AssemblyProductAttribute("SourcingAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SourcingAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
